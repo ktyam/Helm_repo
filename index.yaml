@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jomaa-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-10T12:26:21.076663935+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 2c74ba75e8ac5d4e3934def0c07d11046d934b1443bb9b9b76f156a8b2b7852f
+    name: jomaa-app
+    type: application
+    urls:
+    - https://ktyam.github.io/Helm_repo/jomaa-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-10T12:26:21.07623912+08:00"
